@@ -1,0 +1,17 @@
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\bin\Debug\SudokuCalcs.dll
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\bin\Debug\SudokuCalcs.pdb
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.SudokuPanel.resources
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.dll
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.pdb
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.Properties.Resources.resources
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\ResolveAssemblyReference.cache
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\VS\VS2012\Test\SudokuCalcs\SudokuCalcs\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\VS\Work\SudokuCalcs\SudokuCalcs\bin\Debug\SudokuCalcs.dll
+E:\VS\Work\SudokuCalcs\SudokuCalcs\bin\Debug\SudokuCalcs.pdb
+E:\VS\Work\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.Properties.Resources.resources
+E:\VS\Work\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.SudokuPanel.resources
+E:\VS\Work\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.csproj.GenerateResource.Cache
+E:\VS\Work\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.dll
+E:\VS\Work\SudokuCalcs\SudokuCalcs\obj\Debug\SudokuCalcs.pdb
