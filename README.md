@@ -1,4 +1,5 @@
 ### SudokuPlayer
-数独计算器
+a calculator for sudoku 
+code by c#
 
 
